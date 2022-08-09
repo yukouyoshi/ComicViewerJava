@@ -1,0 +1,34 @@
+
+.mainimage {
+    -fx-image: url("file:/C:/Users/yukou/Downloads/futaba_20220806/1659716615087.jpg");
+}
+#mainimage2 {
+    -fx-image: url("file:/C:/Users/yukou/Downloads/futaba_20220806/1659717208475.jpg");
+}
+
+.image-view {
+    -fx-width: 399px;
+    -fx-height: 300px;
+    -fx-background: indianred;
+}
+.image-container {
+    /*-fx-background-color: white;*/
+    /*-fx-border-style: solid;*/
+    /*-fx-border-color: red;*/
+    /*-fx-fill-width: true;*/
+    /*-fx-fit-to-width: true;*/
+    /*-fx-pref-width: 100%;*/
+}
+.image-container2 {
+    -fx-border-color: blue;
+    -fx-pref-width: 500px;
+}
+
+MenuBar {
+    -fx-height: 200px;
+}
+.menu {
+    -fx-font-size: 12px;
+    -fx-text-decoration-color: blueviolet;
+    -fx-font: blue;
+}
